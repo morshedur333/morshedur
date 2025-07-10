@@ -50,7 +50,7 @@ Hello world, this is me
 - Python 
 ‎- Logic building with Python
 ‎- Creating a GitHub Pages website for portfolio
-‎
+‎- Researching about number (3,6,9)
 ‎---
 ‎
 ‎📈 GitHub Stats
