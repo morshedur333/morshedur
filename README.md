@@ -10,7 +10,7 @@ Hello world, this is me
 ‎  <a href="https://www.instagram.com/ovzzz333?igsh=N2p5dmN4NXd5OHg0" target="_blank">
 ‎    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 ‎  </a>
-‎  <a href="My profile on Letterboxd https://boxd.it/7Brdf" target="_blank">
+‎  <a href="https://letterboxd.com/blue_ovzzz/" target="_blank">
 ‎    <img src="https://img.shields.io/badge/Letterboxd-181818?style=for-the-badge&logo=letterboxd&logoColor=white" />
 ‎  </a>
 ‎  <a href="https://www.linkedin.com/in/morshedur-rahman-ove-6a0941356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
@@ -20,15 +20,15 @@ Hello world, this is me
 ‎
 ‎---
 ‎
-‎### 🧠 About Me
-‎- 🎓 BBA (Management) student at **National University, Bangladesh**
-‎- 💻 Beginner in **HTML, CSS, C, C++, Python**
-‎- 🚀 Passionate about **programming, logic building**, and tech exploration
+‎🧠 About Me
+‎- 🎓 BBA (Management) student at National University, Bangladesh
+‎- 💻 Beginner in HTML, CSS, C, C++, Python
+‎- 🚀 Passionate about programming, logic building, and tech exploration
 ‎- 🛠 Currently building a tutoring portfolio and personal projects
 ‎
 ‎---
 ‎
-‎### 🛠️ Tech Skills
+‎ 🛠️ Tech Skills
 ‎![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ‎![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ‎![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -37,21 +37,23 @@ Hello world, this is me
 ‎
 ‎---
 ‎
-‎### 🚧 Projects in Progress
-‎- 📚 Class 8 Math Notes (Bangla Medium)
+‎ 🚧 Experience 
+‎- 📚 Class 1-10 Math,Ict,English, Bangla (Bangla Medium)
 ‎- 📊 Excel-based Result Sheet Generator
 ‎- 🧠 Psychology Mind Maps (Study-based)
+🖋️ content writer ( about historical, philosophical, Number theory, Science based, IQ related 
 ‎
 ‎---
 ‎
-‎### 🌱 Currently Learning
+‎ 🌱 Currently Learning
 ‎- DSA (Data Structures & Algorithms) in C++
+- Python 
 ‎- Logic building with Python
 ‎- Creating a GitHub Pages website for portfolio
 ‎
 ‎---
 ‎
-‎### 📈 GitHub Stats
+‎📈 GitHub Stats
 ‎
 ‎<p align="center">
 ‎  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
@@ -60,14 +62,14 @@ Hello world, this is me
 ‎
 ‎---
 ‎
-‎### 📫 Let's Connect
+‎ 📫 Let's Connect
 ‎
 ‎Feel free to message me or explore more:
 ‎
-‎- 📧 Email: **morshedurahmanove@gmail.com**
-‎- 🌐 Portfolio Site: *Coming soon*
+‎- 📧 Email: morshedurahmanove@gmail.com
+‎- 🌐 Portfolio Site: Coming soon
 ‎- 💬 Always open to learn and collaborate!
 ‎
 ‎---
 ‎
-‎> “Master in anything. Like Jake.” — *Morshedur Rahman Ove*
+‎> “Master in anything. Like Jake.” — Morshedur Rahman Ove
